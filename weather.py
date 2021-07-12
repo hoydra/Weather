@@ -22,7 +22,7 @@ try:
 
 except Exception as e:
 
-    print("An Error Has Occurred:\nPlease double-check that your 'City/Country:' exists\nTroubleshoot to rcellini8@gmail.com if something is wrong")
+    print("An Error Has Occurred:\nPlease double-check that your 'City/Country:' exists\nTroubleshoot to mail if something is wrong")
 
 
 
